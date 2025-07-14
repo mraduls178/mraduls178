@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Mradul Sharma (mraduls178)
 
-<!--
-**mraduls178/mraduls178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 I’m passionate about:
+- Banner Designing (Canva, PicsArt)
+- Thumbnail Creation for YouTube & Instagram
+- Video Editing (Kinemaster, Filmora – Basic to Advanced)
+- Learning Web Development (HTML, CSS, JS)
+- Basic Computer Skills
 
-Here are some ideas to get you started:
+📈 Goals:
+- Become a full-stack web developer
+- Upload my design & dev projects on GitHub
+- Create a professional portfolio website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:  
+- 📩 Email: mraduls178@gmail.com
+
+⭐ Thanks for visiting my profile. Stay connected!
